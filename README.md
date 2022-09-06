@@ -1,19 +1,21 @@
 # make_your_burger
 
-## Project setup
+## Instalação do projeto
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Rodar projeto 
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### Rodar backend test json
+```
+npm run backend
+```
+
+### Compilar e minificar para produção
 ```
 npm run build
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
