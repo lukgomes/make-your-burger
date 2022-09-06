@@ -92,32 +92,21 @@
         "Pepino",
         "Salame"
       ],
-      "status": "Solicitado",
+      "status": "Em produção",
       "id": 1
     },
     {
-      "nome": "pedro",
-      "carne": "Alcatra",
-      "pao": "Italiano Branco",
+      "nome": "Jurandir",
+      "carne": "Veggie burger",
+      "pao": "3 Queijos",
       "opcionais": [
-        "Bacon",
         "Tomate",
-        "Pepino"
+        "Pepino",
+        "Cebola roxa",
+        "Cheddar"
       ],
-      "status": "Solicitado",
-      "id": 2
-    },
-    {
-      "nome": "maria",
-      "carne": "Picanha",
-      "pao": "Integral",
-      "opcionais": [
-        "Salame",
-        "Tomate",
-        "Pepino"
-      ],
-      "status": "Solicitado",
-      "id": 3
+      "status": "Finalizado",
+      "id": 6
     }
   ]
 }
